@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACTIVITY HUB</string>
+    <string name="dashboard">ড্যাশবোর্ড</string>
+    <string name="app_usage">অ্যাপ ব্যবহার</string>
+    <string name="website_logs">ওয়েবসাইট লগ</string>
+    <string name="cloud_backup">ক্লাউড ব্যাকআপ</string>
+</resources>
